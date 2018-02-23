@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
+    <string name="app_name">Project1</string>
+    <string name="header">Zone Cafe - Cafe and Bistro</string>
+    <string name="location">Location: Strada Uranus 29, Timisoara</string>
+    <string name="hours">Opening Hours: Monday - Sunday 9:00 - 22:00</string>
+    <string name="phone_number">Phone Number: 0 216 106 337</string>
+    <string name="www">www.zonecafe.com</string>
+    <string name="photo">photo</string>
+</resources>
